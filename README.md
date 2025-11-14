@@ -6,8 +6,8 @@
 - **Евгений Седашов** — [страница на HSE](https://www.hse.ru), e-mail: **esedashov@hse.ru**.
 
 ## Ассистенты
-- **Елизавета Кузнеченкова** — Telegram: [@goffkir](https://t.me/tupoygleb)  
-- **Владимир Никонов** — Telegram: [@sofia_yan](https://t.me/n1kon0ff)
+- **Елизавета Кузнеченкова** — Telegram: [@tupoygleb](https://t.me/tupoygleb)  
+- **Владимир Никонов** — Telegram: [@n1kon0ff](https://t.me/n1kon0ff)
 
 ---
 
