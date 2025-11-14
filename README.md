@@ -70,7 +70,7 @@ git clone https://github.com/CSS-Research-Seminar-25-26/css_research_seminar_25-
 2. Перейдите в папку с репозиторием:
 
 ```bash
-cd ~/Desktop/research_seminar_css_2024_2025
+cd ~/Desktop/research_seminar_css_2025_2026
 ```
 
 Выполните команду:
